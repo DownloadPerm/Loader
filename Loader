@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(https://raw.githubusercontent.com/DownloadPerm/Arsenal/refs/heads/main/qq.lua"))()
